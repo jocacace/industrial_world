@@ -163,6 +163,16 @@
 		  </include>
 		</model>
 	
+<!--
+ 		<model name="pipe_curved_1">
+			<include>
+		    <uri>model://curved</uri>
+		 		<pose>-8.77 5.08 0.0 0 0 -1.56</pose>
+		    <static>1</static>
+		  </include>
+		</model>
+-->
+
 		<!--PHYSICS-->
 		<physics name='default_physics' default='0' type='ode'>
       <gravity>0 0 -9.8066</gravity>
